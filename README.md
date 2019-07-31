@@ -1,5 +1,5 @@
-# minor2
-Blockchain implemented(Different Approach)
+# Blockchain implemented(Different Approach)
+minor project in blockchain
 
 A 12 node sever has been setup
 
